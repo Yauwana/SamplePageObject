@@ -1,3 +1,3 @@
 # My project's README
 
-This is a smpe pageobeject code sample 
+This is a sample pageobeject code sample 
