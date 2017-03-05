@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="PageObject_Marketer.LoginPageMarketer" />
+       <class name="PageObject_Marketer.Marketer_SndMsgPage" /> 
+       <class name="PageObject_Marketer.Marketer_MMSPge" /> 
+       <class name="PageObject_Marketer.Marketer_MlMrgPg" /> 
+       <class name="PageObject_Marketer.Marketer_RecPage" /> 
+    </classes>
+  </test>
+</suite>

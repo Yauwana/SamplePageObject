@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78549" started-at="2016-09-12T17:03:22Z" finished-at="2016-09-12T17:04:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78549" started-at="2016-09-12T17:03:22Z" finished-at="2016-09-12T17:04:40Z">
+      <class name="PackagePageObject.CreateLoyaltyProgram">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:PackagePageObject.CreateLoyaltyProgram@23ceabc1]" name="setUp" is-config="true" duration-ms="31875" started-at="2016-09-12T22:33:22Z" finished-at="2016-09-12T22:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCreateLoyaltyProgram()[pri:0, instance:PackagePageObject.CreateLoyaltyProgram@23ceabc1]" name="testCreateLoyaltyProgram" duration-ms="42856" started-at="2016-09-12T22:33:54Z" finished-at="2016-09-12T22:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateLoyaltyProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PackagePageObject.CreateLoyaltyProgram@23ceabc1]" name="tearDown" is-config="true" duration-ms="3706" started-at="2016-09-12T22:34:37Z" finished-at="2016-09-12T22:34:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PackagePageObject.CreateLoyaltyProgram -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
